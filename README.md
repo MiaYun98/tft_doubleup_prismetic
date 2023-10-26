@@ -6,6 +6,8 @@ This analysis stems from personal experiences in the Team Fight Tactics game (Ri
 ## Dataset Information
 The analysis is based on 29 previous match histories, where only 4 of these games had all three Augments set as Prismetic. To enhance the depth of the analysis, it would be beneficial to collect more data, including details such as the specific type of Augments chosen, their associated effects, player levels, compositions used, and other relevant variables.
 
+This is the link to the spreadsheet. https://docs.google.com/spreadsheets/d/1tRQkw23MdccgGLqRjl5o_I-7BGM3g1cuEfZLO4cCaME/edit?usp=sharing 
+
 ## All Matches
 Out of the 29 matches, 14 resulted in victory, placing in the top 1 or 2 positions, while the other 15 matches ended in defeat, with rankings in the 3rd or 4th position. These results yield a win rate of 48.28%.
 
